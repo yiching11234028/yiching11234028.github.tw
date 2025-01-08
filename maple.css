@@ -1,0 +1,10 @@
+html { scroll-behavior: smooth; }
+*{box-sizing: border-box;}
+.introduction-image{
+    margin-top: 1571px;
+    margin-left: 830px;
+}
+.mean-image{
+    margin-top: 2012px;
+    margin-left: 40px;
+}
